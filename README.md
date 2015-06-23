@@ -6,7 +6,7 @@
 
 Congratulations on joining us at General Assembly for the Web Development Immersive course! All your class files can be found here.
 
-![](/images/artemis.jpg)
+![](./images/diana.jpg)
 
 ###TEAM DIANA
 
