@@ -1,3 +1,7 @@
+##DIANA
+
+![](https://s-media-cache-ak0.pinimg.com/736x/5b/4e/f2/5b4ef2ea296557a43f8c5aab8ae9b9af.jpg)
+
 ###TEAM DIANA
 
 ####Maria Schettino
@@ -11,3 +15,6 @@
 
 ####Paul Fielek
 <paul.fielek@generalassemb.ly>
+
+####Hayley Noveck
+<hayley@generalassemb.ly>
