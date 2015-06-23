@@ -2,11 +2,9 @@
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/5b/4e/f2/5b4ef2ea296557a43f8c5aab8ae9b9af.jpg)
 
-![](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
-
 Congratulations on joining us at General Assembly for the Web Development Immersive course! All your class files can be found here.
 
-![](./images/artemis.jpg)
+![](./images/diana.jpg)
 
 ###TEAM DIANA
 
