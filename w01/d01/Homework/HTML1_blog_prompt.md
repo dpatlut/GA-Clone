@@ -31,8 +31,6 @@ When you're setting up your blog, feel free to use the standard Lorem ipsum text
 
 ## Reading Ahead: Command Line
 
-```
-http://cli.learncodethehardway.org/book/
-```
+* [Command Line Tutorial!](http://cli.learncodethehardway.org/book/)
 * Click on the tutorial above
 * Complete all bullets up to and including "Removing a File"
