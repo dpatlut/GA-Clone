@@ -9,6 +9,8 @@
 
 **Programming is problem solving.** An algorithm is a set of steps that solves a problem. Think "recipe". Every program you write is an algorithm for a computer to follow. Solve problems away from the computer. Spend as little time programming as possible. You'll write your programs faster if you know exactly what you want to do before you try to do it. Use pencils, pens, paper, and talking to form sketches of your soultions.
 
+#### What is Pseudocode? 
+Psuedocode is : "an informal high-level description of the operating principle of a computer program or other algorithm. It uses the structural conventions of a programming language, but is intended for human reading rather than machine reading." -wikipedia https://en.wikipedia.org/wiki/Pseudocode 
 
 #### Write Instructions for Common Procedures 
  1. Calculate an average of five test grades
