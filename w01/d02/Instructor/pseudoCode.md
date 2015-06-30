@@ -53,7 +53,7 @@
 #### Programming Instructions (Control Structures)
 What types of instructions can you give a machine?
 
-#### Imperative Statment (assignment, artithmetic, console.log, etc.)
+#### Imperative Statement (assignment, artithmetic, console.log, etc.)
 "Do this." 
 
 #### Conditional Statement (if statements, switch statments, decisions)
