@@ -79,16 +79,14 @@ Data is information. JavaScript divides data three basic categories:
 
 6. **Object** 
 
-Special Operator to Determine Data Type
+####Special Operator to Determine Data Type
 * ```typeof```
 
 ####Changing Numbers into Strings and Strings into Numbers
 * ```5 + "" //converts 5 into "5"```
 * ```parseInt('5'); //converts  '5' into 5```
 
-## Part Four
-* Instructor:  
-* Students:  
+ 
 
 ####  Variables
 
