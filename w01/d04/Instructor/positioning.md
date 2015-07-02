@@ -8,14 +8,9 @@
 
 **Use CSS to position elements on a page to reflect a certain desired layout**
 
-- Explain document flow in HTML.
-- Use floats to move elements to the left or right border of their containing element.
-- Use clear to ensure that an element containing a floating element will stretch to contain its floating child elements.
-- Alter an element's default (static) position.
-- Use relative positioning to move a child element relative to its parent/containing element.
-- Use absolute position to remove an element from document flow and 'force' it's position at a certain point within the flow of the document.
-- Use fixed positioning to remove an element from the document flow and 'force' it's position at a certain point within the flow of the document, where it will remain relative to the viewport.
-- Use z-index to control the display hierarchy of overlapping elements.
+- Explain Normal Document Flow in HTML.
+- Use the float and position properties to arrange elements
+- Create page degins to specifications
 
 ##Part One - Normal Document Flow
 
