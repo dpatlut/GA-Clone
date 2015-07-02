@@ -5,9 +5,6 @@
 
 ###Learning Objectives
 
-
-**Use CSS to position elements on a page to reflect a certain desired layout**
-
 - Explain Normal Document Flow in HTML.
 - Use the float and position properties to arrange elements
 - Create page degins to specifications
