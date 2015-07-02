@@ -41,3 +41,28 @@ $ node hipboro.js "manhattan"
 > Fourth number right!
 > UNLOCKED YOU'RE RICH!!
 ```
+
+#Bonus
+
+##Prime Numbers
+- Use a while loop to loop through and print the numbers 1-100
+- If a number is a prime number, print "Divide this!", as well as the number itself
+
+####Example:
+```bash
+1
+Divide this!
+2
+Divide this!
+3
+Divide this!
+4
+5
+Divide this!
+6
+7
+Divide this!
+8
+9
+10
+```
