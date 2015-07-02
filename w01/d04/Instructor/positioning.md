@@ -86,6 +86,8 @@ Example with padding: http://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/367_
 
 - **```position:absolute```** Removes the element from the Normal Document Flow and positions it relative to its parent element. Other elements collapse around it (and appear hidden "behind" the element that has absolute positioning). 
 
+- **```position: fixed```**
+
 - **```z-index```** Assigns an element a "layer number". Higher numbers appear in front of lower numbers. Think Photoshop layers. Requires use of the ```position``` property.
 
 
