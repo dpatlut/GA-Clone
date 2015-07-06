@@ -30,7 +30,7 @@ Bugs arise when we assume something to be true when it is not.
 - Often out of your control. 
 
 2) Programmer Error
-- Syntax Errors: Often, the easiest error to fix. 
+- Syntax Errors: The easiest error to fix. 
 - Semantic Errors: Insidious. Your code is correct, but it doesn't do what you think it does.
 - Logic Errors: You've solved the problem incorrectly.
 
