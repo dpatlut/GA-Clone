@@ -66,8 +66,8 @@ Bugs arise when we assume something to be true when it is not.
 - Disengagement
 - Silence
 - “Watch the Master”
-[Wiki: Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
-[Pair Programming Video by BitBucket](https://bitbucket.org/spooning/)
+- [Wiki: Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+- [Pair Programming Video by BitBucket](https://bitbucket.org/spooning/)
 
 ## High level
 
