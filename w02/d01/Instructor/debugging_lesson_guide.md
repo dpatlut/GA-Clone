@@ -52,9 +52,22 @@ Bugs arise when we assume something to be true when it is not.
 - Write psuedocode.
 
 3) Program with a partner
-- Pair programming has empirically verified benefits.
-[Wiki: Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
-[Pair Programming Video by BitBucket](https://bitbucket.org/spooning/)
+![Pair Programming](http://image.slidesharecdn.com/pairprogramming-120415162145-phpapp01/95/pair-programming-1-728.jpg?cb=1363781496)
+
+## Advantages
+
+- Pairs spend more time programming
+- Code written by pairs have fewer defects
+- Sharing Experience and Knowledge
+- Enjoy Programming!
+
+## Warnings
+
+- Disengagement
+- Silence
+- “Watch the Master”
+- [Wiki: Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
+- [Pair Programming Video by BitBucket](https://bitbucket.org/spooning/)
 
 ## High level
 
