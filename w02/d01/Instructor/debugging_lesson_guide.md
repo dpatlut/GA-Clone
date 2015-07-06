@@ -52,7 +52,7 @@ Bugs arise when we assume something to be true when it is not.
 - Write psuedocode.
 
 3) Program with a partner
-![Pair Programming](.images/pair-programming.001.png)
+![Pair Programming](http://image.slidesharecdn.com/pairprogramming-120415162145-phpapp01/95/pair-programming-1-728.jpg?cb=1363781496)
 
 ## Advantages
 
