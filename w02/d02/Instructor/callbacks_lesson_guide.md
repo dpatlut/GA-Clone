@@ -31,6 +31,7 @@ In JavaScript, functions are first-class objects. That means that you can treat 
 
 Importantly, you can pass a function as an argument to another function. Check out callback_demo.js
 
+Maddingly, there soooo many different ways to declare a function: http://davidbcalhoun.com/2011/different-ways-of-defining-functions-in-javascript-this-is-madness/
 
 
 
