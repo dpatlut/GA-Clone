@@ -41,9 +41,9 @@ var classroom = {
 }
 
 /*WARM UP ACTIVITY
-
-Use the Mean function to output the average grade for each student. 
-You should use descriptive output, i.e. "Student name in soandso class has an average grade of XXX"
+1) Add an array of grades to each student in the Classroom object you created this morning.
+2) Use the Mean function to output the average grade for each student. 
+3) You should use descriptive output statements, i.e. "Student name in soandso class has an average grade of XXX"
 
 */
 
