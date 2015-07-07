@@ -9,6 +9,8 @@ var procedure = function outputMary(){
         console.log("Mary Had a Little Lamb");
 }//end of outputMary() declaration
 
+//console.log("data type of the procedure variable:", outputMary);
+outputMary();
 console.log("data type of the procedure variable:", typeof(procedure));
 console.log("contents of the procedure variable:", procedure);
 console.log("name of the procedure referenced by the procedure variable:", procedure.name);
