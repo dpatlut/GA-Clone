@@ -16,13 +16,15 @@
 
 ##Functions are First-Class Objects
 In JavaScript, functions are first-class objects. That means that you can treat them as other objects:
-```var procedure = function outputPoem(){
-        alert("Mary Had a Little Lamb");
-        }
 
-    console.log("data type of the procedure variable:", typeof(procedure));
-    console.log("contents of the procedure variable:", procedure);
-    console.log("name of the procedure referenced by the procedure variable:", procedure.name);```
+ ```var procedure = function outputPoem(){
+        alert("Mary Had a Little Lamb");
+   }
+   console.log("data type of the procedure variable:", typeof(procedure));
+   console.log("contents of the procedure variable:", procedure);
+   console.log("name of the procedure referenced by the procedure variable:", procedure.name);
+ ```
+ 
 
 Importantly, you can pass a function as an argument to another function. Check out callback_demo.js
 
