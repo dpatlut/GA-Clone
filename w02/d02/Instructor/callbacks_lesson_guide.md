@@ -9,7 +9,7 @@
 
 ##Review Problem
 - Write a Mean function that expects an array of numbers as an argument.
-- Add an array of grades to each student in the Classroom object you created this morning. 
+- Add an array of grades to each student in the Classroom object included in the Exercises folder. 
 - Use the Mean function to output the average grade for each student. You should use descriptive output, i.e. "Student name in soandso class has an average grade of XXX"
 
 
