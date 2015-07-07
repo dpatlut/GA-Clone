@@ -40,12 +40,16 @@ var classroom = {
  ]
 }
 
+/*WARM UP ACTIVITY
+
+Use the Mean function to output the average grade for each student. 
+You should use descriptive output, i.e. "Student name in soandso class has an average grade of XXX"
+
+*/
 
 
+/*CLASSROOM ACTIVITIES
 
-
-
-/*
 1) Use the map method to automatically create a 'fullname' field for each student in your class.
 
 
