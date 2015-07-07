@@ -1,10 +1,11 @@
 #Callbacks: Passing Procedures as Arguments
 
 ##Function Review
-- Functions are procedures/subprograms/subroutines/methods. They allow programmers to to define well-defined modules of code.
-- Functions allow a programmer to use a well-defined routine multiple times
-- Functions use arguments as **"input"**
-- If required, functions use a ```return``` statement as **"output"** (not the *see it on the screen* type of output). Data that should be returned to the location that invoked the method should be sent via a ```return``` statment
+- Functions are procedures/subprograms/subroutines/methods. They allow programmers to to create well-defined code *modules*.
+- Functions help programmers split a large problem into small chunks.
+- Functions allow a programmer to use a well-defined routine multiple times.
+- Functions use arguments to accept necessary **"input"**.
+- If required, functions use a ```return``` statement to communicate **"output"** (not the *see it on the screen* type of output). Data that should be returned to the location that invoked the method should be sent via a ```return``` statment
 
 
 ##Review Problem
