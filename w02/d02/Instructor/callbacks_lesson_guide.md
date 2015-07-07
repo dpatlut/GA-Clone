@@ -53,9 +53,10 @@ These methods are more specific than the ```foreach``` method. Each of the follo
 
 1) **```filter```**
 - The ```filter``` method returns an array filled only with elements from the original array that pass a specific test
-
+- Documentation: https://msdn.microsoft.com/en-us/library/dn858231(v=vs.94).aspx
 
 2) **```map```**
 - The ```map``` method returns an array with the *transformed* results of the original array, according to the operation specified as an argument
+- Documentation: https://msdn.microsoft.com/en-us/library/ff679976(v=vs.94).aspx
 
 
