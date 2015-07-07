@@ -60,4 +60,6 @@ These methods are more specific than the ```foreach``` method. Each of the follo
 - The ```map``` method returns an array with the *transformed* results of the original array, according to the operation specified as an argument
 - Documentation: https://msdn.microsoft.com/en-us/library/ff679976(v=vs.94).aspx
 
+##Other Resources
+- http://colintoh.com/blog/5-array-methods-that-you-should-use-today 
 
