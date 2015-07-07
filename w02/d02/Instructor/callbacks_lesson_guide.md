@@ -30,9 +30,6 @@ In JavaScript, functions are first-class objects. That means that you can treat 
 
 Importantly, you can pass a function as an argument to another function. Check out callback_demo.js
 
-##Write a Mean Method
-Finding the mean of the 
-
 
 
 
