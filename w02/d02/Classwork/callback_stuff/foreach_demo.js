@@ -56,6 +56,7 @@ var outputNames = function(item, index){
 snlPeople.forEach(outputNames);
 
 
+
 /* Student Activity
 Write both a named and anonymous foreach procedure that outputs this information:
 
@@ -66,4 +67,33 @@ Kristin Wiig  has been in these movies: bridesmaids, her, and girl most likely
 Chris Farley  has been in these movies: Black sheep, Tommy boy, and Beverley Hills Ninja
 John Belusci  has been in these movies: The Blues Brothers, and Animal House
 */
+
+var outputMovieList = function(item, index){
+    var movieList = item.movies;//the array of movies
+    var prettyMovieList = "";//the array of movies with commas
+
+    for(var i=0; i<movieList.length-1; i++){
+        prettyMovieList += movieList[i]+", ";
+    }
+    prettyMovieList += " and "+ movieList[movieList.length-1];
+
+    console.log(item.name, "has been in these movies:", prettyMovieList);
+}
+
+snlPeople.forEach(outputMovieList);
+
+snlPeople.forEach(
+  function(item, index){
+      var movieList = item.movies;//the array of movies
+      var prettyMovieList = "";//the array of movies with commas
+
+      for(var i=0; i<movieList.length-1; i++){
+          prettyMovieList += movieList[i]+", ";
+      }
+      prettyMovieList += " and "+ movieList[movieList.length-1];
+
+      console.log(item.name, "has been in these movies:", prettyMovieList);
+  }
+);
+
 
