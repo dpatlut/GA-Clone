@@ -47,7 +47,12 @@ var classroom = {
  ]
 }
 
+/*WARM UP ACTIVITY
+1) Add an array of grades to each student in the Classroom object you created this morning.
+2) Use the Mean function to output the average grade for each student. 
+3) You should use descriptive output statements, i.e. "Student name in soandso class has an average grade of XXX"
 
+*/
 
 /*WARM UP
     1) Add an array of grades to each student in your classroom object
@@ -79,10 +84,12 @@ classroom.students.forEach(
     console.log(" ");
   }
 
+<<<<<<< HEAD
 );
+=======
+/*CLASSROOM ACTIVITIES
+>>>>>>> 1a7080bbf6e296d74aeb5449f69d8e02a54026b2
 
-
-/*
 1) Use the map method to automatically create a 'fullname' field for each student in your class.
 
 
