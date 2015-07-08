@@ -7,42 +7,79 @@ var classroom = {
             'lastName': 'Porfido',
             'age': 5,
             'hair': 'brown',
-            'aspirations': ['Go to the moon', 'Meet George Clooney']
+            'aspirations': ['Go to the moon', 'Meet George Clooney'],
+            'grades':[100,100,100,100,100]
     },
         {
             'firstName': 'Sally',
             'lastName': 'Ray',
             'age': 6,
             'hair': 'brown',
-            'aspirations': ['Eat a taco', 'Go to heaven']
+            'aspirations': ['Eat a taco', 'Go to heaven'],
+            'grades':[60,60,60,60,60]
     },
         {
             'firstName': 'Joey',
             'lastName': 'Bagadonuts',
             'age': 7,
             'hair': 'red',
-            'aspirations': ['Drive a car', 'get an iPhone']
+            'aspirations': ['Drive a car', 'get an iPhone'],
+            'grades':[0,80,80,80,80]
+
     },
         {
             'firstName': 'Larry',
             'lastName': 'Beans',
             'age': 10,
             'hair': 'black',
-            'aspirations': ['Fly an airplane', 'Cancun for spring break']
+            'aspirations': ['Fly an airplane', 'Cancun for spring break'],
+            'grades':[90,90,90,90,90]
     },
         {
             'firstName': 'Yvette',
             'lastName': 'Blahblahblah',
             'age': 8,
             'hair': 'brown',
-            'aspirations': ['Get drunk this weekend', 'Go to General Assembly']
+            'aspirations': ['Get drunk this weekend', 'Go to General Assembly'],
+            'grades':[95,95,95,95,95]
+
     }
  ]
 }
 
 
 
+/*WARM UP
+    1) Add an array of grades to each student in your classroom object
+    2) Use the Mean function to output the average grade of every student in the class 
+    3) Make sure your output is well-formed and descriptive
 
+
+
+
+*/
+
+console.log( classroom.teacher+",  "+classroom.class);
+
+classroom.students.forEach(
+  function(item, index){
+    console.log(item.firstName," ", item.lastName);
+    console.log("Age: ",item.age," Hair: ",item.hair);
+    console.log("Aspirations:")
+    for(var  i=0; i<item.aspirations.length;i++)
+        console.log("  -",item.aspirations[i]);
+
+    var gradeList="";
+    for(var i=0;i<item.grades.length-1;i++){
+        gradeList+=item.grades[i]+", ";
+    }
+
+    gradeList+=item.grades[item.grades.length-1];
+    console.log("Grades:", gradeList);
+    console.log(" ");
+  }
+
+);
 
 
 /*
