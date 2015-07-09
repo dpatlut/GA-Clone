@@ -57,18 +57,18 @@ Applications cannot rely upon events firing in order (*or, that the evenr will f
  - Button:
     -HTML:
        ```html
-       <button type="button" id="myInput">Click Me!</button>
+       <button type="button">Click Me!</button>
        ```
  
  - Input 
  ```html
- <input type="text">
+ <input type="text" id="myInput">
  ```
     -Javascript
-        ```javascript
-            var input = document.querySelector("#myInput");
-            document.log(input.value);
-        ```
+      ```javascript
+          var input = document.querySelector("#myInput");
+          document.log(input.value);
+      ```
  
 
 ##Keyboard Events
