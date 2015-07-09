@@ -66,8 +66,8 @@ Applications cannot rely upon events firing in order (*or, that the evenr will f
  ```
     -Javascript
       ```javascript
-          var input = document.querySelector("#myInput");
-          document.log(input.value);
+        var input = document.querySelector("#myInput");
+        document.log(input.value);
       ```
  
 
