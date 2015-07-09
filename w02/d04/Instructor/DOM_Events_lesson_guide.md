@@ -55,15 +55,16 @@ Applications cannot rely upon events firing in order (*or, that the evenr will f
 
 ##Useful User Input Tags
  - Button:
-    -HTML:
+ 
        ```html
        <button type="button">Click Me!</button>
        ```
  
  - Input 
- ```html
- <input type="text" id="myInput">
- ```
+    -html 
+       ```html
+       <input type="text" id="myInput">
+       ```
     -Javascript
     
       ```javascript
