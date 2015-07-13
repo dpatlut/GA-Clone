@@ -2,8 +2,8 @@
 Instructor models Steps 1 & 2. Students finish Steps 3 & 4.
 
 ##Prior Knowledge
-- Functions: 
-- Scope: Where can you access the variables you've created?
+- Functions: DRY, Procedural Abstraction
+- Scope: Where can you access the variables you've created? global vs local
 - Strings, Arrays
 
 ##Building a Project
