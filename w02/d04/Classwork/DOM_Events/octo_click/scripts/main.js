@@ -1,13 +1,14 @@
 console.log("Connection to main.js works!");
 
 
-
-document.getElementById("intro").addEventListener("click", displayMessage);
-
 function displayMessage(event) {
 	console.log("A "+event.type+" event just ocurred!")
 	document.querySelector("p.message").innerHTML = "Whoah! DOM events actually work!";
 }
+
+document.getElementById("intro").addEventListener("click", displayMessage);
+
+
 
 
 
@@ -39,6 +40,30 @@ octoPic.addEventListener('click', function(event){
 	caption.setAttribute("class","purple-stuff");
 });
 
+
+
+var picture = document.querySelector("#garden");
+
+picture.addEventListener('click', function(event){
+	    console.log(event);
+		var msg = document.querySelector(".message");
+		msg.setAttribute("class","message green-stuff");
+	    console.log(msg);
+});
+
+
+var btn = document.querySelector("#myInput");
+
+btn.addEventListener('click', function(event){
+		var name = document.querySelector("input");
+		console.log(name.value);
+		var caption = document.querySelector("#octo-caption");
+		var words = caption.innerText;
+		console.log(words);
+		words = "A " + words + " named " + name.value;
+		console.log(words);
+		caption.innerText = words;
+});
 
 
 /*	
