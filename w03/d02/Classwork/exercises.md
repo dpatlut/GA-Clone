@@ -14,9 +14,13 @@ Raphael - red, sai, Raffaello Sanzio da Urbino
 Donatello - purple, bo, Donato di Niccolo di Betto Bardi
 
 To verify everything works:
+
 1. Change the name of one of the turtles to your own name.
+
 2. Print out the weapon of that turtle.
+
 3. Add a new turtle for the person sitting next to you.
+
 4. Print out the contents of the turtles array.
 
 ##Tamagotchi
