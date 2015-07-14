@@ -4,19 +4,23 @@
 1. Also add a property called `likesPizza` that is set to true.
 1. Add a ```pizzaEaten``` property that is set to false
 1. Add a ```eatPizza()``` method that when pizzaEaten is true will log the turtle's name + 'has eaten pizza' and turn pizzaEaten to false. Otherwise it should log the turtle's name + 'is eating pizza and turn pizzaEaten to true. 
-1. Make four turtle object and store them in an array. 
+1. Make four turtle objects and store them in an array. 
 
 For Reference:
 
-Leonardo - blue, ninjato, Leonardo da Vinci 	
-Michelangelo - orange, nunchucks, Michelangelo Buonarroti
-Raphael - red, sai, Raffaello Sanzio da Urbino
-Donatello - purple, bo, Donato di Niccolo di Betto Bardi
+- Leonardo - blue, ninjato, Leonardo da Vinci 	
+- Michelangelo - orange, nunchucks, Michelangelo Buonarroti
+- Raphael - red, sai, Raffaello Sanzio da Urbino
+- Donatello - purple, bo, Donato di Niccolo di Betto Bardi
 
 To verify everything works:
+
 1. Change the name of one of the turtles to your own name.
+
 2. Print out the weapon of that turtle.
+
 3. Add a new turtle for the person sitting next to you.
+
 4. Print out the contents of the turtles array.
 
 ##Tamagotchi
