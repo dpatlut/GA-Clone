@@ -4,7 +4,7 @@
 1. Also add a property called `likesPizza` that is set to true.
 1. Add a ```pizzaEaten``` property that is set to false
 1. Add a ```eatPizza()``` method that when pizzaEaten is true will log the turtle's name + 'has eaten pizza' and turn pizzaEaten to false. Otherwise it should log the turtle's name + 'is eating pizza and turn pizzaEaten to true. 
-1. Make four turtle object and store them in an array. 
+1. Make four turtle objects and store them in an array. 
 
 For Reference:
 
