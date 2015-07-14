@@ -64,7 +64,9 @@ var imgUrls   = [
 	"http://data3.whicdn.com/images/47853617/thumb.png"
 ];
 
+// Fill tomQuestions with question objects
 var tomQuestions = [];
+
 // Use this constructor function to create question objects
 var Question = function Question(question, answer, imgUrl){
 
@@ -80,7 +82,7 @@ var Game = function Game(questions){
 
 
 
-// Fill tomQuestions with question objects
+
 
 
 
