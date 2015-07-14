@@ -8,10 +8,10 @@
 
 For Reference:
 
-Leonardo - blue, ninjato, Leonardo da Vinci 	
-Michelangelo - orange, nunchucks, Michelangelo Buonarroti
-Raphael - red, sai, Raffaello Sanzio da Urbino
-Donatello - purple, bo, Donato di Niccolo di Betto Bardi
+- Leonardo - blue, ninjato, Leonardo da Vinci 	
+- Michelangelo - orange, nunchucks, Michelangelo Buonarroti
+- Raphael - red, sai, Raffaello Sanzio da Urbino
+- Donatello - purple, bo, Donato di Niccolo di Betto Bardi
 
 To verify everything works:
 
