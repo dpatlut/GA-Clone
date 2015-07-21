@@ -1,5 +1,7 @@
 # Project 1 Frameworks and Resources
 
+* [Mini Style Guide](https://github.com/ga-students/diana_students/blob/master/mini_style_guide.md)
+	* Make sure to follow this guide on how to style your code so it's easier to read for yourself and for others
 * [Can I Use](http://caniuse.com/)
 	* There were some questions about what works in specific browsers/versions. This website breaksdown a lot of various HTML/CSS items and where they work. 
 * [Minimax Algorithm](http://www.code2learn.com/2012/01/minimax-algorithm-tutorial.html)
