@@ -18,7 +18,7 @@ Within the scope of this class, we'll be passing data back and forth (reading/wr
 
 #### Tiered Activity: Make a Data-Driven Website
 
-1) **Activity #1**: Data Sanitizing. Design an object-model for the data located in "Census_Data_All.cvs". Load data from the file "Census_Data_All.csv" and save this data as an array of JSON objects. Save this "structured" version of the data as "Census_Data_All.json".  
+1) **Activity #1**: Data Sanitizing. Design an object-model for the data located in "Census_Data_All.cvs". Load data from the file "Census_Data_All.csv" and save this data as an array of JSON objects. Save this "structured" version of the data as "Census_Data_All.json".  (Check out http://www.census.gov/developers/ for the original data)
 
 2) **Activity #2**: Data-driven Website Creation. Output a 52-page website "report" that auto-generates an html page for every state  and an "index.html" page to roganize them all. 
 
