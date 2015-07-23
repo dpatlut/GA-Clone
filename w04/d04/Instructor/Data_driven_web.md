@@ -20,9 +20,7 @@ Within the scope of this class, we'll be passing data back and forth (reading/wr
 
 1) **Activity #1**: Data Sanitizing. Design an object-model for the data located in "Census_Data_All.csv". Load data from the file "Census_Data_All.csv" and save this data as an array of JSON objects. Save this "structured" version of the data as "Census_Data_All.json".  (Check out http://www.census.gov/developers/ for the original data)
 
-2) **Activity #2**: Create a Data-driven Website. Output a 52-page website "report" that auto-generates an html page for every state  and an "index.html" page to organize them all. 
-
-  The "index.html" page should include a link to each state page. 
+2) **Activity #2**: Create a Data-driven Website. Output a 52-page website "report" that auto-generates an html page for every state.
 
   Each state page (and DC) should include:
 
@@ -37,7 +35,7 @@ Within the scope of this class, we'll be passing data back and forth (reading/wr
      2. Embed the state flag for each state.
      3. Output a varying text-based qualitative description of the change from 2000 - 2010 (ie - "huge increase", "slight decrease", etc)
      4. A link to the next and previous states (alphabetically ordered)
-     5. Use for loops to organize your links on "index.html" into a 4-column table
+     5. Create an "index.html" page with a link to each state page, either as an unordered list or as a 4-coumn table
 
   Super Bonus: 
      1. Use svg images to dynamically create bar graphs
