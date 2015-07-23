@@ -9,7 +9,7 @@ Examine the following:
 
 #### Modeling Data
 
-Within the scope of this class, we'll be passing data back and forth (reading/writing files, client/server, etc) in the form of strings. Converting between the string representation of data and alternate representations (number, JSON, etc). is a major consideration.
+Within the scope of this class, we'll be passing data back and forth (reading/writing files, client/server, etc) in the form of strings. Converting between the string representation of data and alternate representations (numbers, JSON, etc). is a major consideration.
 
 **Data Modeling** involves devising a data structure to maintain and organize the relevant information for your app. 
 
