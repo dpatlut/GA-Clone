@@ -1,5 +1,5 @@
 // This program demonstrates how to save JSON data to a file via JSON.stringify()
-//Coment important lines of code in this file
+//Comment important lines of code in this file
 
 
 var fs = require("fs");  
@@ -37,8 +37,8 @@ console.log("String version:", stringFruits);
 
 
 console.log("Name via JSON:", fruits[0].name);  
-fs.writeFile("./fruit_bad.txt", fruits); 
+fs.writeFile("./fruit_bad.txt", fruits); //notice that the callback is optional
 
 console.log("Name via string:", stringFruits[0].name);  
-fs.writeFile("./fruit_good.txt", stringFruits); 
+fs.writeFile("./fruit_good.txt", stringFruits);  //notice that the callback is optional
 
