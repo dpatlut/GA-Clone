@@ -30,7 +30,7 @@ server.on('request', function(request, response){
                 response.writeHead(200, { 'Content-Type': 'application/json' });
                 response.write(JSON.stringify(movie));
                 response.end();
-                foundit=true;
+                foundIt=true;
             }
         });//look through each movie
 
