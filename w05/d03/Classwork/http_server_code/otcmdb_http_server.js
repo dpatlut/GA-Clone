@@ -24,7 +24,7 @@ server.on('request', function(request, response){
          var foundIt = false;
 
          cruiseDB.forEach(function(movie){
-            var targetMovie = queryPortion[1].replace("+"," ");
+            var targetMovie = queryPortion[1].replace(/\+/g," ");
 
             if(movie.Title.toLowerCase() === targetMovie.toLowerCase()){
                 response.writeHead(200, { 'Content-Type': 'application/json' });
