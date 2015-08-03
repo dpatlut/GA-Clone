@@ -1,1 +1,1 @@
-{"counter":2,"wines":{"1":{"id":1,"wineName":"Malbec","type":"Red"},"2":{"id":2,"wineName":"orvieto","type":"white"}}}
+{"counter":3,"wines":{"2":{"id":2,"wineName":"orvieto","type":"White"},"3":{"id":3,"wineName":"Orvieto","type":"White"}}}
