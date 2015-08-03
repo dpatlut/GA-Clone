@@ -1,0 +1,10 @@
+<html>
+	<body>
+		<h1>All Wines</h1>
+			<% Object.keys(wines).forEach(function(key){ %>
+				<h3>Name: <%= wines[key].wineName %></h3>
+				<h4>Type: <%= wines[key].type %></h4>
+			<% }) %>
+			<a href="/wines/new">Create a New Wine</a>
+	</body>
+</html>
