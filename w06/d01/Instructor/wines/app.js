@@ -78,6 +78,12 @@ app.put('/wines/:id', function(req,res){
 	res.redirect('/wines/' + req.params.id)
 });
 
+app.delete('/wines/:id', function(req, res){
+	var wineData = getWineData()
+	delete wineData.wines[req.params.id];
+	saveWine(wineData)
+	res.redirect('/wines');
+});
 
 
 app.listen(3000, function(){
