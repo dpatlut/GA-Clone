@@ -66,10 +66,16 @@ app.get('/wines/:id/edit', function(req, res){
 
 app.put('/wines/:id', function(req,res){
 	//get all the data from the JSON file
+	var wineData = getWineData()
 	//choose the right wine by it's id
+	var thisWine = wineData.wines[req.params.id];
 	//update each attribute
+	thisWine.wineName = req.body.wineName;
+	thisWine.type = req.body.type
 	//save wine to the json file
+	saveWine(wineData)
 	//redirect to the page where that particular wine lives
+	res.redirect('/wines/' + req.params.id)
 });
 
 
