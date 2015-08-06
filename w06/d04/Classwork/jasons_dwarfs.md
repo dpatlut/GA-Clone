@@ -32,5 +32,10 @@ Make the following changes to your table:
 5. remove Dopey
 
 
+##Add the LOTR Hobbits
 
+1. Frodo Blue
+2. Sam Red
+3. Other Hobbit Number One Green
+4. Other Hobbit Number Two purple
 
