@@ -538,6 +538,7 @@ CREATE TABLE actors (id INTEGER PRIMARY KEY,
 CREATE TABLE movies (
 				id INTEGER PRIMARY KEY, 
 				title TEXT, 
+				movie_actor_id INTEGER,
 				FOREIGN KEY(movie_actor_id) references actors (id)
 				);
 ```
