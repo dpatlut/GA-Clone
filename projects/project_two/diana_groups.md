@@ -1,34 +1,36 @@
-> Each student will be assigned an instructor to 'project manage' their work throughout the duration of the project. Students should expect to file issues through GitHub, and assign those issues to the instructor managing their project.
+# Project Two Groups
 
-Maria
+#### Maria
 
-- Brian Johnson
-- Sharon Wang
-- Miles Perkins
-- Spencer Denauski
-- James Leisy
-- David Wightman
-- Jonathan Chei
+* Brian
+* Neil
+* Miles
+* Spencer
+* James
+* David W.
 
-Paul
-- Viktoria Szontagh
-- David Patlut
-- Neil Gewirtz
+#### Justin
 
+* Viki
+* Sam
+* Thomas
+* Philip
+* Avi
+* Kat
+* Anthony
 
-Jason
-- Anthony Lui
-- Alexander Marino
-- Danny Jung
-- David Yoon
-- Reyes Rodriguez
-- Colleen McCaffery
+#### Jason
 
+* Sharon
+* Alex
+* Danny
+* David Y.
+* Reyes
+* Colleen
 
-Justin
-- Sam Smale
-- Matthew Fewer
-- Thomas Kolasa
-- Philip Choi
-- Avi Zacherman
-- Katerina Burshteyn
+#### Paul
+
+* Johnathan
+* David P.
+* Matthew
+
