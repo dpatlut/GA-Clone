@@ -4,7 +4,7 @@
 
 In a file called reptile.rb, make a class Reptile with the following attributes:
 - species
-- cold-blooded set to false
+- cold-blooded set to true
 - num_limbs
 
 Write a method for 'getting' the number of legs of a reptile only if the num_limbs is equal to 0 or 4. Otherwise, output a message "this is probably not a reptile"
