@@ -38,5 +38,5 @@ Instantiate a new turtle with the species 'Cheloniidae', name it as you like, it
 
 Put a binding.pry in your turtle.rb file.
 
-Play around with your tutle in Pry, make sure all it's methods work. Make it age, swim, rename it, check it's species, etc.
+Play around with your turtle in Pry, make sure all it's methods work. Make it age, swim, rename it, check its species, etc.
 
