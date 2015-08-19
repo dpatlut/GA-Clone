@@ -1,16 +1,18 @@
 require 'pry'
+require_relative('animal')
 
-class Cat
+class Cat < Animal
 
 	@@cats = []
 
-	def initialize(legs, lives, coat, breed, name)
+	def initialize(legs, lives, coat, breed, name, species)
 		@likes_lasagna = true
 		@legs = legs
 		@lives = lives
 		@coat = coat
 		@breed = breed
 		@name = name
+		super(species)
 	end
 
 	#Getters
@@ -75,6 +77,10 @@ class Cat
 		end
 	end
 
+	def speak
+		"Meow"
+	end
+
 	def self.get_cat_name
 		@@cats.each do |cat|
 			puts cat.name
@@ -83,7 +89,8 @@ class Cat
 
 end #end Cat
 
-garfield = Cat.new(3, 7, "orange", "American Shorthair", "Garfield")
-all_the_cats = Cat.get_cats
+# sherman = Cat.new('Feline')
+garfield = Cat.new(3, 7, "orange", "American Shorthair", "Garfield", "Feline")
+# all_the_cats = Cat.get_cats
 
 binding.pry
