@@ -6,5 +6,5 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-
-Post.create({title: "First Post", content: "This is Great", image_url:"http://cdn.1xrun.com/images/uploads/3_immer.jpg" })
+Author.create({name: "Maria", email: "m@m.com"})
+Post.create({title: "First Post", content: "This is Great", image_url:"http://cdn.1xrun.com/images/uploads/3_immer.jpg", author_id: 1 })

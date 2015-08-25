@@ -5,6 +5,18 @@ class PostsController < ApplicationController
 		@posts = Post.all
 	end
 
+	def yoda
+    api_key = ENV["YODA_KEY"]
+    content = URI.escape(params[:post][:content])
+    yoda_speak = HTTParty.get("https://yoda.p.mashape.com/yoda?sentence=#{content}",
+                              headers:{
+                                "X-Mashape-Key" => api_key,
+                                "Accept" => "text/plain"
+                              })
+    @yoda_post = {title: params[:post][:title], author: params[:post][:author], image: params[:post][:image_url], content: yoda_speak}
+    render :yoda
+	end
+
 	# GET /posts/new
 	def new
 		@post = Post.new
@@ -42,8 +54,8 @@ class PostsController < ApplicationController
 
 	private
 	# This allows us to add all params at once. We can choose which params we want to allow for mass assignment. 
-		def post_params
-			params.require(:post).permit(:title, :content, :image_url)
-		end
+	 def post_params
+    params.require(:post).permit(:title, :content, :image_url, :author_id)
+  end
 
 end
