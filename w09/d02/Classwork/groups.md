@@ -13,7 +13,7 @@
 - Katerina Burshteyn
 
 
-##GROUP 3
+##GROUP 3 - https://github.com/jeebay/venue
 
 - Brian Johnson
 - Matthew Fewer
@@ -26,7 +26,7 @@
 - Miles Perkins
 - David Patlut
 
-##GROUP 5 
+##GROUP 5 - https://github.com/colmccaffrey/bandio
 
 - Sam Smale
 - Colleen McCaffery
