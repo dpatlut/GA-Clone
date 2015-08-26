@@ -6,7 +6,7 @@
 - Reyes Rodriguez
 - Avi Zacherman
 
-##GROUP 2
+##GROUP 2 - https://github.com/Krazian/G2_W9D2_Lab2
 
 - Jonathan Chei
 - Spencer Denauski
@@ -20,7 +20,7 @@
 - David Yoon
 - Neil Gewirtz
 
-##GROUP 4
+##GROUP 4 - https://github.com/blackandmiles93/Bands.io
 
 - Thomas Kolasa
 - Miles Perkins
@@ -32,13 +32,13 @@
 - Colleen McCaffery
 - Sharon Wang
 
-##GROUP 6
+##GROUP 6 - https://github.com/apmarino/bands
 
 - James Leisy
 - Alexander Marino
 - Viktoria Szontagh
 
-##GROUP 7 
+##GROUP 7 - https://github.com/soulmecca/band
 
 - Danny Jung
 - David Wightman
