@@ -1,6 +1,6 @@
 #Groups
 
-##GROUP 1
+##GROUP 1 - https://github.com/Avizacherman/GA_Bands
 
 - Anthony Lui
 - Reyes Rodriguez
