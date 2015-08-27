@@ -13,3 +13,5 @@
 <%= f.hidden_field :content, value: @post.content %>
 <%= f.submit 'Yodafy' %> 
 <% end %>
+
+<%= link_to 'See all posts by this author', author_posts_path(@post.author_id) %>

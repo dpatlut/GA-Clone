@@ -5,7 +5,12 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'welcome#index'
   
-  get 'yodafy' => 'posts#yoda'
+  get '/yodafy' => 'posts#yoda'
+  get '/login' => 'sessions#new'
+
+  resource :sessions, only: [:create, :destroy]
+  resource :authors, only: [:create]
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
@@ -28,10 +33,9 @@ Rails.application.routes.draw do
   #   end
 
   # Example resource route with sub-resources:
-  #   resources :products do
-  #     resources :comments, :sales
-  #     resource :seller
-  #   end
+    resources :authors do
+      resources :posts
+    end
 
   # Example resource route with more complex sub-resources:
   #   resources :products do

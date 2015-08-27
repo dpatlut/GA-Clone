@@ -1,8 +1,13 @@
 class PostsController < ApplicationController
+	before_action :authenticate, except: [:index, :show, :yoda]
 
 	# GET /posts
 	def index
-		@posts = Post.all
+		if params[:author_id]
+			@posts = Post.where({author_id: params[:author_id]})
+		else
+			@posts = Post.all
+		end
 	end
 
 	def yoda
