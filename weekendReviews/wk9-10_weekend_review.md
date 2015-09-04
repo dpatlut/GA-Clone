@@ -5,6 +5,7 @@
 * [AJAX](#ajax)
 
 ## <a name=ror>Ruby on Rails</a>
+[Check out this awesome rails book](https://www.railstutorial.org/book)
 
 Rails was created in 2003 by David Heinemeier Hansson. It has stuck to three basic principles:
 
