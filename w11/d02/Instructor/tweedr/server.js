@@ -44,7 +44,6 @@ app.post('/tweeds', function(req, res) {
 
 app.put('/tweeds/:id', function(req, res) {
   var id = req.params.id;
-  console.log(req.body.upvote)
   db.run("UPDATE tweeds SET upvote = ?  WHERE id = ?", req.body.upvote, id, function (err) {
     if(err) {
       throw err;
