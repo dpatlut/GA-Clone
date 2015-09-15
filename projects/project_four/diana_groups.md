@@ -15,6 +15,7 @@ Wednesday:
 |  Hari      | Anthony | 3    |
 |  Hari      | Miles   | 3:30 |
 |  Paul      | Alex    | 3    |
+|  Paul      | Jonathan| 3:30 |
 
 
 Thursday: 
