@@ -6,7 +6,7 @@ To build a web-based application, at an individually appropriate level of challe
 
 ## Parameters
 
-Start: Tuesday September 15 @ 9:30pm
+Start: Tuesday September 15 @ 9:30am
 
 End: Tuesday September 22 @ 9:30am
 
