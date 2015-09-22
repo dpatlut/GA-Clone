@@ -15,6 +15,7 @@ Wednesday:
 |  Hari      | Anthony | 3    |
 |  Hari      | Miles   | 3:30 |
 |  Paul      | Alex    | 3    |
+|  Paul      | Jonathan| 3:30 |
 
 
 Thursday: 
@@ -39,7 +40,6 @@ Friday:
 |  Maria     | Kat   	 | 3:30 |
 |  Jason		 | Brian   | 3    |
 |  Jason     | Neil    | 3:30 |
-|  Hari      | Reyes   | 3    |
 |  Hari      | David Y.| 3:30 |
 |  Paul      | Spencer | 3    |	
 
