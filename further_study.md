@@ -65,7 +65,7 @@ Online
 - [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - Esther Derby & Diana Larsen
 ###Misc
 
-- [techtalks](http://phatak-dev.github.io/techtalks/) - Curated collection of technical talks.
+- [techtalks](http://phatak-dev.github.io/techtalks/) - Curated collection of technical talks
 - [awesome list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Hacker News](https://news.ycombinator.com)
 
@@ -90,6 +90,8 @@ Online
 ### Contact Us!
 
 - Maria Schettino - mariatschettino@gmail.com
+
+- Justin Gohde - justin.gohde@gmail.com
 
 - Jason Ng - jason.ng@generalassemb.ly 
 
